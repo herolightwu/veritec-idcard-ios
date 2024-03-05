@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EB502CB8-2066-47B6-91F3-F383371C79C0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93CF04A7-F505-4F66-9DCE-E11923F4932D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdCard/API/API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "encodeData(token:body:onSuccess:onFailed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "93CF04A7-F505-4F66-9DCE-E11923F4932D - 958b239c52e539ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in static IdCard.API.encodeData(token: Swift.String, body: Swift.Dictionary&lt;Swift.String, Any&gt;, onSuccess: (Swift.String) -&gt; (), onFailed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "93CF04A7-F505-4F66-9DCE-E11923F4932D - 958b239c52e539ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in static IdCard.API.encodeData(token: Swift.String, body: Swift.Dictionary&lt;Swift.String, Any&gt;, onSuccess: (Swift.String) -&gt; (), onFailed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "518">
+               </Location>
+               <Location
+                  uuid = "93CF04A7-F505-4F66-9DCE-E11923F4932D - 958b239c52e539ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in static IdCard.API.encodeData(token: Swift.String, body: Swift.Dictionary&lt;Swift.String, Any&gt;, onSuccess: (Swift.String) -&gt; (), onFailed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "193"
+                  endingLineNumber = "193"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "93CF04A7-F505-4F66-9DCE-E11923F4932D - 958b239c52e5398f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in static IdCard.API.encodeData(token: Swift.String, body: Swift.Dictionary&lt;Swift.String, Any&gt;, onSuccess: (Swift.String) -&gt; (), onFailed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "194"
+                  endingLineNumber = "194"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "93CF04A7-F505-4F66-9DCE-E11923F4932D - 958b239c52e539ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in static IdCard.API.encodeData(token: Swift.String, body: Swift.Dictionary&lt;Swift.String, Any&gt;, onSuccess: (Swift.String) -&gt; (), onFailed: (Swift.String) -&gt; ()) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/API/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "195"
+                  endingLineNumber = "195"
+                  offsetFromSymbolStart = "664">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdCard/Controllers/OrderVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "encodeData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - cc54386e6f1b0203"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdCard.OrderVC.encodeData(Any) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "997">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - d6a822a5e709fee6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in IdCard.OrderVC.encodeData(Any) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - cc54386e6f1b0451"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdCard.OrderVC.encodeData(Any) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "997">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - d6a822a5e709f8b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in IdCard.OrderVC.encodeData(Any) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - cd19be7314581044"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdCard.OrderVC.encodeData(Swift.String) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1146">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - 13bbfa81b91799bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in IdCard.OrderVC.encodeData(Swift.String) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - cd19be7314581044"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdCard.OrderVC.encodeData(Swift.String) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "EAA834F7-C92D-4D52-94B1-3332EE55EE72 - 13bbfa81b91799bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in IdCard.OrderVC.encodeData(Swift.String) -&gt; ()"
+                  moduleName = "IdCard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xiang/Desktop/MyWork/Veritec/IdCard/IdCard/Controllers/OrderVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
